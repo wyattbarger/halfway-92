@@ -1,0 +1,17 @@
+@font-face {
+  font-family: "Runescape-Small";
+  src: local("runescape_small"),
+    url("./assets/fonts/runescape_small.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Runescape";
+  src: local("runescape"),
+    url("./assets/fonts/runescape.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Runescape-Bold";
+  src: local("runescape_bold"),
+    url("./assets/fonts/runescape_bold.ttf") format("truetype");
+}
