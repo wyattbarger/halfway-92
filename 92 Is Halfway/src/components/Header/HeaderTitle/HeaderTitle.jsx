@@ -1,10 +1,6 @@
-import React from 'react';
-import { HeaderTitleStyle } from './HeaderTitleStyle.js';
+import React from "react";
+import { HeaderTitleStyle } from "./HeaderTitleStyle.js";
 
-export default function HeaderTitle () {
-    return (
-        <HeaderTitleStyle>
-            92 Is Halfway
-        </HeaderTitleStyle>
-    );
+export default function HeaderTitle() {
+  return <HeaderTitleStyle>92 Is Halfway</HeaderTitleStyle>;
 }
